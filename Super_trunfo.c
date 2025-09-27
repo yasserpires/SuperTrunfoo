@@ -1,5 +1,6 @@
 //inicio do programa
 //adicionando variaveis
+//nivel aventureiro
 #include <stdio.h>
 int main(){
 char estado1[3],estado2[3];
