@@ -75,7 +75,7 @@ printf("densidade populacional: %.2f hab/km² \n", densidadepopulacional1);
 printf("Pib per capita: R$ %.2f reais\n", Pibpercapita);
 printf("\n");
 
-
+//mostrando os valores colhidos da segunda carte
 
 printf("\n");
 printf("-------CARTA 2-------\n");
