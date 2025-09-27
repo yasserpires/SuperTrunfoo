@@ -70,8 +70,8 @@ printf("codigo da carta: %s\n", cdgdacarta1);
 printf("area do estado: %.2f km²\n", area1);
 printf("pib do estado: %.2f bilhoes de reais\n", pib1);
 printf("pontos turisticos do estado: %d\n", numerodepontosturisticos1);
-printf("Pib per capita: R$ %.2f reais\n", Pibpercapita);
 printf("densidade populacional: %.2f hab/km² \n", densidadepopulacional1);
+printf("Pib per capita: R$ %.2f reais\n", Pibpercapita);
 printf("\n");
 
 
@@ -86,8 +86,8 @@ printf("populacao do estado: %d\n", populacao2);
 printf("area do estado: %.2f km² \n", area2);            
 printf("pib do estado: %.2f bilhoes de reais \n", pib2);
 printf("pontos turisticos do estado : %d\n", numerodepontosturisticos2);
-printf("Pib per capita: %.2f reais \n", Pibpercapita2); 
 printf("densidade populacional: %.2f hab/km² \n", densidadepopulacional2);
+printf("Pib per capita: %.2f reais \n", Pibpercapita2); 
 printf("\n");
 
 return 0;
